@@ -1,5 +1,5 @@
 - # 💫 About Me:
-👋 Hi, I’m @RaviSoni804426<br>👀 I’m interested in coding<br>🌱 I’m currently learning Python and CP<br> Contact: rk8715514@gmail.com
+👋 Hi, I’m @RaviSoni804426<br>👀 I’m interested in coding<br>🌱 I’m currently learning DSA and CP<br> Contact: rk8715514@gmail.com, Mobile no.- 9608710567
 
 
 ## 🌐 Socials:
