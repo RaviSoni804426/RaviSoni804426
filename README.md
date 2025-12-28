@@ -45,10 +45,5 @@ Currently exploring **DSA, Competitive Programming, and Machine Learning**.
 
 ---
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=RaviSoni804426&theme=radical)
-
----
-
 ## ✍️ Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
